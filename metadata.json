@@ -1,0 +1,6 @@
+{
+  "name": "ANWAAR-UL-ISLAM TECHNICAL INSTITUTE",
+  "description": "Complete School, College, Computer Academy, and Spoken English Management System for Anwaar-ul-Islam Technical Institute, Haveli Lakha, District Okara. Powered by AUI Digi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

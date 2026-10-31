@@ -1,0 +1,55 @@
+[
+  {
+    "id": "usr-admin",
+    "name": "Administrator (Executive Office)",
+    "email": "admin@auiinstitute.edu.pk",
+    "aliases": [
+      "admin@auiinstitute.edu.pk",
+      "auipak35@gmail.com",
+      "admin",
+      "administrator"
+    ],
+    "role": "admin",
+    "phone": "0312-1266130",
+    "department": "Central Administration",
+    "salt": "f5595cbd7f2ef5640b505f6419606ce5",
+    "passwordHash": "97098242d9bc284c9a45d94f4278fca7046c9c7c5eb55c9ab5bcb664e8d1e6ce0c7b9cef8e1ca6b4aff5d7118e08a27d4e2eb5542b63a686d49d27a2501dbaf4",
+    "createdAt": "2026-10-31T11:53:36.048Z",
+    "failedAttempts": 0,
+    "lastLoginAt": "2026-10-31T11:53:43.802Z"
+  },
+  {
+    "id": "usr-teacher",
+    "name": "Sir Usman Ali (Faculty)",
+    "email": "usman.ali@auiinstitute.edu.pk",
+    "aliases": [
+      "usman.ali@auiinstitute.edu.pk",
+      "teacher",
+      "faculty"
+    ],
+    "role": "teacher",
+    "phone": "+92 301 6543210",
+    "department": "Computer Academy & IT Wing",
+    "salt": "0d9e87ef7bddc96b49f38a787a2adba5",
+    "passwordHash": "526d8e9b195562d5d05b9ce60fb32e39f594fd54f5a4aee1b5d28579f19a7d403be22b8aa6ee491e9a3911f228f5ab7b2018db1428b8a845ad783704c7bf35e7",
+    "createdAt": "2026-10-31T11:53:36.116Z",
+    "failedAttempts": 0,
+    "lastLoginAt": "2026-10-31T11:53:43.862Z"
+  },
+  {
+    "id": "usr-accountant",
+    "name": "Mr. Naveed Ahmad (Accounts)",
+    "email": "accounts@auiinstitute.edu.pk",
+    "aliases": [
+      "accounts@auiinstitute.edu.pk",
+      "accountant",
+      "bursar"
+    ],
+    "role": "accountant",
+    "phone": "+92 302 8765432",
+    "department": "Bursar & Accounts Office",
+    "salt": "0aca79e078e3123b79661356d8bc3f7a",
+    "passwordHash": "8e5d2c991b84e7cdbe0bbfd3bcaacb3261a5535e467f62d8c6fa64d47c65f5fb7a85cf2089620ff75ba7efcd058588337170f4afafc1cfcf8c5257cf4ca51fc3",
+    "createdAt": "2026-10-31T11:53:36.165Z"
+  }
+]
